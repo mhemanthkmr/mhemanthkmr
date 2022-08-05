@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, HemanthKumae M</h1>
+<h1 align="center">Hi 👋, HemanthKumar M</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 - 🔭 I’m currently working as **Freelancer**
